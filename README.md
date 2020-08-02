@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shandilya21" alt="Shandilya21" /> </p>
 
-<!--
-**Shandilya21/Shandilya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/shandilyaarunav?lang=en">
+  <img align="left" alt="ShandilyaArunav| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arunav-shandilya/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
+### Hi there, I'm [Arunav Shandilya!](https://shandilya21.github.io/) 👋 - an Engineer.
+
+<br />
+
+
+**I am Into**
+
+**Machine Learning, Natural Language Processing, and Computer Vision**
+<br />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Graidient Estimation for Discrete Distribution in Low Entropy Setting
+- 🌱 I’m currently learning Reinforcement Learning, Bayesian Optimization
+- 💬 Ask me about NLP, Deep Neural Networks, GAN, Transformers, Probabilistic Models.
+- 📫 How to reach me: arunavshandilya96@gmail.com
+- 😄 Pronouns: he/him
