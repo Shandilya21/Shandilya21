@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shandilya21" alt="Shandilya21" /> </p>
 
+<br/>
 <a href="https://twitter.com/shandilyaarunav?lang=en">
   <img align="left" alt="ShandilyaArunav| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
