@@ -21,7 +21,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Graidient Estimation for Discrete Distribution in Low Entropy Setting
+- 🔭 I’m currently working on Gradient Estimation for Discrete Distribution in Low Entropy Setting
 - 🌱 I’m currently learning Reinforcement Learning, Bayesian Optimization
 - 💬 Ask me about NLP, Deep Neural Networks, GAN, Transformers, Probabilistic Models.
 - 📫 How to reach me: arunavshandilya96@gmail.com
