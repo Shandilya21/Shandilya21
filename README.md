@@ -21,7 +21,7 @@
 
 Here is a bit about my interests and how to get in touch:
 
-- 🌱 I’m currently learning Reinforcement Learning, Bayesian Optimization
+- 🌱 I’m currently learning Multimodal, Reinforcement Learning, Optimization
 - 💬 Ask me about NLP, Deep Neural Networks, GAN, Transformers, Probabilistic Models.
 - 📫 How to reach me: arunavshandilya96@gmail.com
 - 😄 Pronouns: he/him
