@@ -19,7 +19,7 @@
 **Machine Learning, Natural Language Processing, and Computer Vision**
 <br />
 
-Here are some ideas to get you started:
+Here is a bit about my interests and how to get in touch:
 
 - 🌱 I’m currently learning Reinforcement Learning, Bayesian Optimization
 - 💬 Ask me about NLP, Deep Neural Networks, GAN, Transformers, Probabilistic Models.
