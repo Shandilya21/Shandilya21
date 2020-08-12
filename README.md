@@ -9,7 +9,7 @@
 </a>
 
 
-### Hi there, I'm [Arunav Shandilya!](https://shandilya21.github.io/) 👋 - an Engineer.
+### Hi there 👋, I'm [Arunav Shandilya!](https://shandilya21.github.io/).
 
 <br />
 
