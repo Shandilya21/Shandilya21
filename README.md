@@ -8,7 +8,6 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
 ### Hi there 👋, I'm [Arunav Shandilya!](https://shandilya21.github.io/).
 
 <br />
@@ -16,12 +15,16 @@
 
 **I am Into**
 
-**Machine Learning, Natural Language Processing, and Computer Vision**
-<br />
+**Machine Learning, Natural Language Processing, and Computer Vision, Software Development and Infrastructure**
 
 Here is a bit about my interests and how to get in touch:
 
-- 🌱 I’m currently learning Multimodal, Reinforcement Learning, Optimization
-- 💬 Ask me about NLP, Deep Neural Networks, GAN, Transformers, Probabilistic Models.
-- 📫 How to reach me: arunavshandilya96@gmail.com
+- 💬 I am learning about cloud and microservices for deep learning development.
+- 🌱 I’m currently working on Multimodal, Reinforcement Learning, Optimization based problems.
+- 💬 Ask me about NLP, Deep Neural Networks, GAN, Probabilistic Models and let's Collaborate to knock new ideas to code.
+- 📫 How to reach me: arunavshandilya96@gmail.com (I'm open for hiring and Looking for ML,DL Opportunities.)
 - 😄 Pronouns: he/him
+
+![Arunav Github Stats](https://github-readme-stats.vercel.app/api?username=Shandilya21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
