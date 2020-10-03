@@ -8,7 +8,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-### Hi there 👋, I'm [Arunav Shandilya!].
+### Hi there 👋, I'm Arunav Shandilya!.
 
 <br />
 
