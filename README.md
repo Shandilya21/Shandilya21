@@ -22,7 +22,7 @@ Here is a bit about my interests and how to get in touch:
 - 💬 I am learning about cloud and microservices for deep learning development.
 - 🌱 I’m currently working on Multimodal, Reinforcement Learning, Optimization based problems.
 - 💬 Ask me about NLP, Deep Neural Networks, GAN, Probabilistic Models and let's Collaborate to knock new ideas to code.
-- 📫 How to reach me: arunavshandilya96@gmail.com (I'm open for hiring and Looking for ML,DL Opportunities.)
+- 📫 How to reach me: arunavshandilya96@gmail.com
 - 😄 Pronouns: he/him
 
 ![Arunav Github Stats](https://github-readme-stats.vercel.app/api?username=Shandilya21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
